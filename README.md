@@ -1,6 +1,6 @@
 # Automatic-IRM-LGC-with-deep-features
 
-![Sample](./sample.png "Sample")
+![Sample](./image.png "Sample")
 
 Accurate object segmentation is a fundamental challenge in computer vision, conventionally addressed by either pure deep
 learning models or classical optimization algorithms. The Iterated Region Merging with Localized Graph Cuts (IRM-LGC) algorithm is a
